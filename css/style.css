@@ -109,6 +109,7 @@ code, pre {
   height: 350px;
   width: 400px;
   padding: 40px;
+  padding-top: 25px;
   z-index: 100;
   animation: slideInFromRight 1s ease-in;
 
